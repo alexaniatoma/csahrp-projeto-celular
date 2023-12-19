@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\bin\Debug\net8.0\celular-desafio-dio.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\bin\Debug\net8.0\celular-desafio-dio.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\bin\Debug\net8.0\celular-desafio-dio.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\bin\Debug\net8.0\celular-desafio-dio.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\bin\Debug\net8.0\celular-desafio-dio.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\celular-desafio-dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\celular-desafio-dio.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\celular-desafio-dio.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\celular-desafio-dio.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\celular-desafio-dio.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\refint\celular-desafio-dio.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\celular-desafio-dio.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\celular-desafio-dio.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\csharp-dio-Avanade\celular-desafio-dio\obj\Debug\net8.0\ref\celular-desafio-dio.dll
